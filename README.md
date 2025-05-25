@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Hey!+I'm+Abhilakshay+Singh+Pathania;Welcome+to+my+GitHub+profile!;Let's+build+cool+things+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00FFAB&width=600&lines=Hey!+I'm+Abhilakshay+Singh+Pathania;Welcome+to+my+GitHub+profile!;Let's+build+cool+things+together!" alt="Typing SVG" />
 </div>
+
 
 ###
 
