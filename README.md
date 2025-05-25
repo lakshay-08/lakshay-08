@@ -1,6 +1,13 @@
 <div align="center">
-  <div align="center"> <a href="https://www.linkedin.com/in/abhilakshay-pathania/" target="_blank">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Hey!+I'm+Abhilakshay+Singh+Pathania;Welcome+to+my+GitHub+profile!;Let's+build+cool+things+together!" alt="Typing SVG" />
+</div>
+
+###
+
+<div align="center">
+  <div align="center"> <a href="https://www.linkedin.com/in/abhilakshay-pathania/" target="_blank"  rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <div align="center"> <a href="https://www.instagram.com/lakshay_08?igsh=MWFzaWxia292YjV5eA%3D%3D&utm_source=qr" target="_blank"  rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
