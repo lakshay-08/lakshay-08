@@ -6,22 +6,23 @@
 
 <div align="center">
 
-<h2>👋 Hello, I'm <strong>Abhilakshay Pathania</strong></h2>
-
 <p>
-  A passionate <strong>Software Developer</strong> with <strong>4.5+ years</strong> of experience specializing in <strong>Backend Development</strong>, <strong>Cloud Computing (AWS, Azure)</strong>, and <strong>Full-Stack DEvelopment</strong>. Skilled in Python, C++, JavaScript, TypeScript and modern frameworks like React and FastAPI.
+  I’m a passionate <strong>Software Developer</strong> with over <strong>4.5 years</strong> of professional experience, specializing in <strong>Backend Development</strong>, <strong>Cloud Computing</strong> (AWS, Azure), and <strong>Full-Stack Engineering</strong>. Proficient in <strong>Python</strong>, <strong>C++</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, and modern frameworks like <strong>React</strong> and <strong>FastAPI</strong>.
 </p>
 
 <p>
-  Experienced in building scalable APIs, working with NoSQL and relational databases, containerization with Docker, and deploying cloud-native applications. I thrive on solving complex problems, writing clean code, and continuously learning new technologies.
+  I have a strong background in designing and building scalable APIs, working with both NoSQL and relational databases, and deploying cloud-native applications using Docker. I’m passionate about solving complex problems, writing clean and efficient code, and continuously expanding my technical skill set.
 </p>
 
 <p>
-  Currently focused on enhancing my skills, have worked in the field of IOT for 2.5 years and 2 years as a Backend developer developing and designing features in a B2B firm.
+  My journey includes <strong>2.5 years in the IoT domain</strong>, followed by <strong>2 years as a Backend Developer</strong> at a B2B firm, where I was responsible for designing and developing key platform features. I’m currently focused on deepening my backend and cloud expertise while exploring new opportunities for innovation and growth.
 </p>
 
 </div>
+
+
 ###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/abhilakshay-pathania/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
