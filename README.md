@@ -2,9 +2,26 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00FFAB&width=600&lines=Hey!+I'm+lakshay;Welcome+to+my+GitHub+profile!;Let's+Explore+And+innovate!" alt="Typing SVG" />
 </div>
 
-
 ###
 
+<div align="center">
+
+<h2>👋 Hello, I'm <strong>Abhilakshay Pathania</strong></h2>
+
+<p>
+  A passionate <strong>Software Developer</strong> with <strong>4.5+ years</strong> of experience specializing in <strong>Backend Development</strong>, <strong>Cloud Computing (AWS, Azure)</strong>, and <strong>Full-Stack DEvelopment</strong>. Skilled in Python, C++, JavaScript, TypeScript and modern frameworks like React and FastAPI.
+</p>
+
+<p>
+  Experienced in building scalable APIs, working with NoSQL and relational databases, containerization with Docker, and deploying cloud-native applications. I thrive on solving complex problems, writing clean code, and continuously learning new technologies.
+</p>
+
+<p>
+  Currently focused on enhancing my skills, have worked in the field of IOT for 2.5 years and 2 years as a Backend developer developing and designing features in a B2B firm.
+</p>
+
+</div>
+###
 <div align="center">
   <a href="https://www.linkedin.com/in/abhilakshay-pathania/" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
