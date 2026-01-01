@@ -15,7 +15,7 @@
 </p>
 
 <p>
-  My journey includes <strong>2.5 years in the IoT domain</strong>, followed by <strong>2 years as a Backend Developer</strong> at a B2B firm, where I was responsible for designing and developing key platform features. I’m currently focused on deepening my backend and cloud expertise while exploring new opportunities for innovation and growth. Also deep dive into the growing fields of ML, AI and HFTs. 
+  My journey includes <strong>2.5 years in the IoT domain</strong>, followed by <strong>2.5 years as a Backend Developer</strong> at a B2B firm, where I was responsible for designing and developing key platform features. I’m currently focused on deepening my backend and cloud expertise while exploring new opportunities for innovation and growth. Also deep dive into the growing fields of ML, AI and HFTs. 
 </p>
 
 </div>
