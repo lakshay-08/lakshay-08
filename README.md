@@ -7,7 +7,7 @@
 <div align="center">
 
 <p>
-  I’m a passionate <strong>Software Developer</strong> with over <strong>4.5 years</strong> of professional experience, specializing in <strong>IOT</strong>, <strong>Backend Development</strong>, <strong>Cloud Computing</strong> (AWS, Azure), and <strong>Full-Stack Engineering</strong>. Proficient in <strong>Python</strong>, <strong>C++</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, and modern frameworks like <strong>React</strong> and <strong>FastAPI</strong>.
+  I’m a passionate <strong>Software Developer</strong> with over <strong>5 years</strong> of professional experience, specializing in <strong>IOT</strong>, <strong>Backend Development</strong>, <strong>Cloud Computing</strong> (AWS, Azure), and <strong>Full-Stack Engineering</strong>. Proficient in <strong>Python</strong>, <strong>C++</strong>, <strong>JavaScript</strong>, <strong>TypeScript</strong>, and modern frameworks like <strong>React</strong> and <strong>FastAPI</strong>.
 </p>
 
 <p>
